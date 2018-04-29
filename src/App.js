@@ -4,9 +4,9 @@ import './App.css';
 import { Fade } from 'react-slideshow-image';
 
 const images = [
-  'img/slideimage-gpucpu.png',
-  'img/slideimage-linux.png',
-  'img/slideimage-parallel.png',
+  'images/slideimage-gpucpu.png',
+  'images/slideimage-linux.png',
+  'images/slideimage-parallel.png',
 ];
 
 class App extends Component {
